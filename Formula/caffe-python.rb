@@ -43,8 +43,8 @@ class Caffe < Formula
       -DBUILD_SHARED_LIBS=ON
       -DBUILD_docs=OFF
       -DBUILD_matlab=OFF
-      -DBUILD_python=OFF
-      -DBUILD_python_layer=OFF
+      -DBUILD_python=ON
+      -DBUILD_python_layer=ON
       -DCPU_ONLY=ON
       -DUSE_LEVELDB=ON
       -DUSE_LMDB=ON
