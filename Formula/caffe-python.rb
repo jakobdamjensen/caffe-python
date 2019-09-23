@@ -44,7 +44,7 @@ class CaffePython < Formula
       -DBUILD_docs=OFF
       -DBUILD_matlab=OFF
       -DBUILD_python=ON
-      -DBUILD_python_layer=ON
+      -DBUILD_python_layer=OFF
       -DCPU_ONLY=ON
       -DUSE_LEVELDB=ON
       -DUSE_LMDB=ON
