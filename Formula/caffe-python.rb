@@ -1,4 +1,4 @@
-class Caffe < Formula
+class CaffePython < Formula
   desc "Fast open framework for deep learning"
   homepage "https://caffe.berkeleyvision.org/"
   url "https://github.com/BVLC/caffe/archive/1.0.tar.gz"
